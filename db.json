@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Add new sidebar in this app",
+      "stage": 1,
+      "priority": "High",
+      "deadline": "21:36"
+    },
+    {
+      "id": 2,
+      "name": "App bug modify",
+      "stage": 1,
+      "priority": "medium",
+      "deadline": "22:42"
+    }
+  ],
+  "register": [
+    {
+      "fullname": "",
+      "username": "",
+      "email": "",
+      "contect_number": "",
+      "password": "",
+      "confirm_password": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.small-card{
+    display: flex;
+    flex-direction: row;
+}
+
+.drop-container-title{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-top: 1px solid #000;
+}
+.drop-container{
+    display: grid;
+    margin-top: 10px;
+    grid-template-columns: repeat(3,1fr);
+    border: 2px solid rgb(255, 255, 255);
+    /* justify-content: space-around; */
+}
+.drop-container>div{
+    border: 1px solid grey;
+}
